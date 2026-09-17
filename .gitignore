@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Streamlit secrets and local configuration
+.streamlit/secrets.toml
+Assignment_2/.streamlit/secrets.toml
+Assignment_2/.streamlit/secrets.toml.*
+.env
+
+# macOS and editor files
+.DS_Store
+.vscode/
